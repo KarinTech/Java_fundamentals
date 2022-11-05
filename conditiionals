@@ -1,0 +1,29 @@
+class Main {
+  public static void main(String[] args) {
+
+    int edad =16;
+    
+    if (edad >=18){     
+      
+      System.out.println("Eres adulto y podes participar del programa" );
+                   
+  }
+    else{
+      System.out.println("Eres aun menor de edad y no podes participar por el momento");
+    }
+  }
+} 
+ public static void main(String[] args) {
+
+    int edad =20;
+    
+    if (edad >=18){     
+      
+      System.out.println("Eres adulto y podes participar del programa" );
+                   
+  }
+    else{
+      System.out.println("Eres aun menor de edad y no podes participar por el momento");
+    }
+  }
+} 
